@@ -1,0 +1,19 @@
+ number_of_airports |            route_description            | departure_airport | arrival_airport 
+--------------------+-----------------------------------------+-------------------+-----------------
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → SVX | LHR               | SVX
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → UFA | LHR               | UFA
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → CAN | LHR               | CAN
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → KMG | LHR               | KMG
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → LED | LHR               | LED
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → KZN | LHR               | KZN
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → KJA | LHR               | KJA
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → OVB | LHR               | OVB
+                  7 | LHR → LAX → YYC → VIE → ORY → DME → AER | LHR               | AER
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → CCU | LHR               | CCU
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → MXP | LHR               | MXP
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → MUC | LHR               | MUC
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → SVO | LHR               | SVO
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → SCL | LHR               | SCL
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → LGW | LHR               | LGW
+                  7 | LHR → LAX → YYC → VIE → ORY → FRA → CDG | LHR               | CDG
+                  and etc.
