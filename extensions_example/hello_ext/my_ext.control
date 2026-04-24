@@ -1,0 +1,5 @@
+# my_ext extension
+comment = 'Example extension: adds one to an integer'
+default_version = '1.0'
+module_pathname = '$libdir/my_ext'
+relocatable = true
